@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/yukkuri_butti" target="blank"><img src="https://img.shields.io/twitter/follow/yukkuri_butti?logo=twitter&style=for-the-badge" alt="yukkuri_butti" /></a> </p>
 
-- これが私の代表作です [柚葉ウイルス](https://github.com/YuzuhaVirusProject/YuzuhaVirus)
+- これが私の代表作です [柚葉ウイルス](https://github.com/YuzuhaVirusProject/YuzuhaVirus)  
+
+  本物のソースコードに興味がある？ならサーバーに参加してチームの一員になりましょう！   
 
 - これが私の使うframeworkです **.Net framework 4.0**
 
