@@ -7,7 +7,7 @@
 
   本物のソースコードに興味がある？ならサーバーに参加してチームの一員になりましょう！   
 
-- これが私の使うframeworkです **.Net framework 4.0**
+- これが私の使うframeworkです **C#(.Net framework4.0),VC++(2015),HTML,CSS**
 
 - お問い合わせ先メールアドレス **yukkuributti@gmail.com**
 
