@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm yukkuributti</h1>
-<h3 align="center">私はYouTubeでウイルス実況をしています。ウイルス実況をするうちに、作る側にも興味を持ちました。私は小5からプログラミングを始めました。その後よき仲間達と出会い、ウイルスについての知識を付けました。C#/C++を使いウイルスを作ることができます。また今までにウイルス以外の知識もつけ、いろいろなジャンルに興味を持っています。そのためhtmlなどのweb系も多少扱えます。</h3>
+<h3 align="center">私はYouTubeでウイルス実況をしています。ウイルス実況をするうちに、作る側にも興味を持ちました。私は小5からプログラミングを始めました。その後よき仲間達と出会い、ウイルスについての知識を付けました。C#/C++を使いウイルスを作ることができます。また今までにウイルス以外の知識もつけ、いろいろなジャンルに興味を持っています。そのためhtmlなどのweb系も多少扱えます。また、最近ではYouTubeの通信を改ざんしバグの調査を行っています</h3>
+
 
 <p align="left"> <a href="https://twitter.com/yukkuri_butti" target="blank"><img src="https://img.shields.io/twitter/follow/yukkuri_butti?logo=twitter&style=for-the-badge" alt="yukkuri_butti" /></a> </p>
 
