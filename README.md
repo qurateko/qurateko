@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm yukkuributti</h1>
+<h1 align="center">Hi 👋, I'm qurateko</h1>
 <h3 align="center">私はYouTubeでウイルス実況をしています。ウイルス実況をするうちに、作る側にも興味を持ちました。私は小5からプログラミングを始めました。その後よき仲間達と出会い、ウイルスについての知識を付けました。C#/C++を使いウイルスを作ることができます。また今までにウイルス以外の知識もつけ、いろいろなジャンルに興味を持っています。そのためhtmlなどのweb系も多少扱えます。また、最近ではYouTubeの通信を改ざんしバグの調査を行っています</h3>
 
 
-<p align="left"> <a href="https://twitter.com/yukkuri_butti" target="blank"><img src="https://img.shields.io/twitter/follow/yukkuri_butti?logo=twitter&style=for-the-badge" alt="yukkuri_butti" /></a> </p>
+<p align="left"> <a href="https://twitter.com/qurateko" target="blank"><img src="https://img.shields.io/twitter/follow/qurateko?logo=twitter&style=for-the-badge" alt="qurateko" /></a> </p>
 
 - これが私の代表作です [柚葉ウイルス](https://github.com/YuzuhaVirusProject/YuzuhaVirus)  
 
@@ -10,13 +10,13 @@
 
 - これが私の使うframeworkです **C#(.Net framework4.0),VC++(2015),HTML,CSS**
 
-- お問い合わせ先メールアドレス **yukkuributti@gmail.com**
+- お問い合わせ先メールアドレス **yukkuributti.contact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yukkuri_butti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yukkuri_butti" height="30" width="40" /></a>
+<a href="https://twitter.com/qurateko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yukkuri_butti" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yukkuributti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yukkuributti" height="30" width="40" /></a>
-<a href="https://discord.gg/mgkhBNtwcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mgkhBNtwcc" height="30" width="40" /></a>
+<a href="https://discord.gg/fdDREDmnYq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mgkhBNtwcc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">使用言語及びツール:</h3>
